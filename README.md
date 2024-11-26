@@ -29,6 +29,8 @@
 
 [clickhouse.py](clickhouse.py) код для вставки данных в таблицу ClickHouse
 
+![2024-11-23_12-07-48.png](2024-11-23_12-07-48.png) результат работы скрипта
+
 ---
 
 ## Урок 2. Парсинг HTML. BeautifulSoup
@@ -36,10 +38,4 @@
 [BeautifulSoup.py](BeautifulSoup.py) код второго урока
 
 [books_upc.json](books_upc.json) результат работы
-
-
-
-![2024-11-23_12-07-48.png](2024-11-23_12-07-48.png) результат работы скрипта
-
-
 
